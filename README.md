@@ -39,5 +39,22 @@ To use DirectX in your programs it is necessary to install the DirectX SDK. You 
 ## Status
 Project is: _finished_.
 
+# UP_lab12
+## General info
+Program shows camera operations and functions in the Windows Form Application. Program was created for the needs of the laboratory in the subject called External Devices. 
+The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/up/lab/lab_12/).
+
+## Screenshots
+![Example screenshot](./UP_lab12/img/screenshot.png)
+
+## Technologies
+* C# along with the use avicap32.dll library
+
+## Setup
+To use avicap32.dll library you need to download it and import into the project.
+
+## Status
+Project is: _finished_.
+
 ## Contact
 Created by [@PJasiczek](http://www.piotrjasiczek.pl/) - feel free to contact me!
