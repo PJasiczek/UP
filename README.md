@@ -28,7 +28,7 @@ Program shows joystick operations and functions in the Windows Form Application.
 The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/up/lab/lab_10/).
 
 ## Screenshots
-<img src="./UP_lab10/img/screenshot.png" align="middle" width="522px" height="341px">
+<img src="./UP_lab10/img/screenshot.png" text-align="center" width="522px" height="341px">
 
 ## Technologies
 * C# along with the use in the DirectInput API
