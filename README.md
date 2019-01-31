@@ -9,17 +9,17 @@
     * [Setup](#setup)
     * [Status](#status)
 * UP_lab12
-    * [General info](#general-info1)
-    * [Screenshots](#screenshots1)
-    * [Technologies](#technologies1)
-    * [Setup](#setup1)
-    * [Status](#status1)
+    * [General info](#general-info-1)
+    * [Screenshots](#screenshots-1)
+    * [Technologies](#technologies-1)
+    * [Setup](#setup-1)
+    * [Status](#status-1)
 * UP_lab14
-    * [General info](#general-info2)
-    * [Screenshots](#screenshots2)
-    * [Technologies](#technologies2)
-    * [Setup](#setup2)
-    * [Status](#status2)
+    * [General info](#general-info-2)
+    * [Screenshots](#screenshots-2)
+    * [Technologies](#technologies-2)
+    * [Setup](#setup-2)
+    * [Status](#status-2)
 * [Contact](#contact)
 
 # UP_lab10
