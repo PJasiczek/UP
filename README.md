@@ -28,7 +28,7 @@ Program shows joystick operations and functions in the Windows Form Application.
 The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/up/lab/lab_10/).
 
 ## Screenshots
-![Example screenshot](./UP_lab10/img/screenshot.png)
+![Example screenshot](./UP_lab10/img/screenshot.png){:height="50%" width="50%"}
 
 ## Technologies
 * C# along with the use in the DirectInput API
@@ -45,7 +45,7 @@ Program shows camera operations and functions in the Windows Form Application. P
 The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/up/lab/lab_12/).
 
 ## Screenshots
-![Example screenshot](./UP_lab12/img/screenshot.png)
+![Example screenshot](./UP_lab12/img/screenshot.png){:height="50%" width="50%"}
 
 ## Technologies
 * C# along with the use avicap32.dll library
