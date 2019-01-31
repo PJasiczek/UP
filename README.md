@@ -45,7 +45,7 @@ Program shows camera operations and functions in the Windows Form Application. P
 The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/up/lab/lab_12/).
 
 ## Screenshots
-<img src="./UP_lab12/img/screenshot.png" width=>
+<img src="./UP_lab12/img/screenshot.png" width="522px" height="341px">
 
 ## Technologies
 * C# along with the use avicap32.dll library
