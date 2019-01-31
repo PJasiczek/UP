@@ -69,7 +69,7 @@ The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zs
 
 ## Setup
 To add referene to avicap32.dll library you need to choose from the given below directory. 
-_UP_lab14\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll_
+$UP_lab14\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll
 
 ## Status
 Project is: _finished_.
