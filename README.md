@@ -62,7 +62,7 @@ Program searches available devices with available Bluetooth protocol and sends t
 The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/up/lab/lab_14/).
 
 ## Screenshots
-<img src="./UP_lab14/img/screenshot.png" >
+<img src="./UP_lab14/img/screenshot.png" width="229px" height="341px">
 
 ## Technologies
 * C# along with the use InTheHand.Net.Personal.dll library
