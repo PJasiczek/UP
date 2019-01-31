@@ -68,8 +68,8 @@ The content of the task has been placed [here](http://www.zsk.ict.pwr.wroc.pl/zs
 * C# along with the use InTheHand.Net.Personal.dll library
 
 ## Setup
-To add referene to avicap32.dll library you need to choose from the given below directory. 
-$ UP_lab14\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll
+To add referene to InTheHand.Net.Personal.dll library you need to choose from the given below directory. 
+[InTheHand.Net.Personal.dll](UP_lab14\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll)
 
 ## Status
 Project is: _finished_.
